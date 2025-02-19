@@ -1,4 +1,6 @@
- *How to Run* 
+this (very stupid) project visualizes sorting algorithms using musical notation on a stave. Each note represents a value in an array, and as the algorithm sorts them, you can see their positions update dynamically.
+
+*How to Run* 
 
 Install Dependencies:
 
